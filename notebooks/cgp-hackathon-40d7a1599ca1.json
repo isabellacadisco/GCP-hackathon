@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cgp-hackathon",
+  "private_key_id": "40d7a1599ca108167c115624137cbbc89d13a56c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr1n4zhMZ5nJCW\nCEp8UDMgHaHlGbnny5J/WCVXGEQBZBAK7lH9IIn/nbzfZpNj+h4ZXajUdighIaCt\nD3/X87lDit7zfnOAJGsA7mCRSLNTHNGWk+BwdRNsCxiTbsl3Ncg1KVb4DtD8MlPb\niRWop9gxedLX952Io/XRjwzXv87cd8dHC4H6yKR5Rk3xnxs2nvBfunSev+sl0G3a\n0ppeSPVbvVcDEfQRBbryseB9Ub3EpRABdKElnibq9vlGk6CJCrH5NCeKRwAtbNUe\nhFk/nPCBTR0PQGbZP8hdLJRpJRgxwbtHEFELDJmfynvv7o5dLqK5aUPO5tfDhptn\nxbqkL+x9AgMBAAECggEASf0kwNUSSonF3bv7KnSz1se7jjRaDjrivM884LfzjC/E\nEpjUF6w7jyMhkIWPwBQRgrWHvNeVZtKeZvXOA7OPGUyBvBE99TZ5FmENlnDZudcm\nTXIlyPY4IyTR86VXvOsc5fsDVfK3PGgFIHlxqHmAxqjgRpp5K70BWrZ//qO5k8aP\nssjMHZ6YkTgv/ABMV6m2jsvFI8usWAuuz4xl5gcEZoYME6yNrl8H6vunfOyZNTxF\n4ut+vS/oSbDoL1FDCWcD/0rdjsJp6YoxJlwANEEVVo7IXHwJp3x61OeGzslJZFIE\nN9qqJoRrW+kYdRA+FAMUuYGyTBv6qubIL14W9Oim9wKBgQDn0PXgVH3eCNygEt1e\nr885NL8jUm1iXq4YkLYcYB0bAqb4d+xS+30+AtxfqJcPC3rEVLkMnTmxMtlqfKDu\nux9qM0aCd0F1dkEYNezHnTULU8uZC8uUQdSbEcS1VPpWg2+gDBYcmbsJlgW5fu+m\nXSIzQf7nvwXOENIJmAqbLy9HTwKBgQC9w7WrBrw6il7F0GucuriiWPE9NRvS7lDs\njhKgdCnOza1ujcEHy025xPoXVMx7DzWZKXmEGNrITkro/rBeubg6bg2SHfn234EZ\niv1cg+FZ5ctx1KZi9s0Vk6Je5Gkrta78XSX6PmRWobZi1Fi7Y/r+Aq1IDivGiw+W\nu0/QyeXccwKBgQCZM9BLYYuNoe2tHMqQOUCKXgG0JlWEHW6RbZHtTtftceNHcnoM\nnYg340whLBopJz0LY7KoU4A9S43EgnkZTTGFzj1bG9V2+6Apj/ncMllMEyULEHCK\nmrcXhLar4G1Rn6u16kbyv+aMf0lpPirDl+lyVrtQDT6Y4STukjzwMk7coQKBgFOs\n0pRhWepuTS/ooSrw4q0jjuwwWN5/m0tTsj7yOeUoqErRUsZ/DPzXMHfNOoUgxb+N\nnDl1RDOC4mEuvNJoDiYllPJTKX+EOkbrFKEQvfOH8ld1LxEARpo3CSfSi9VsPYam\nBDL+A/x3PhcCD0ZB5dDPmVzmcsMPWoZafe1QuXylAoGBAMlb3rpeBzWgjYwWJLwd\nzbCPjs2yHEGwUnb5p3Avf68bLnw1clBfilIrc6eD7XZtpzZgp5jhok90VAJL79mu\ne+EMv+tjo+NGeTS7MK+dv++o5osCGk4v3KpJRMd/ZcREp8r65qQEb1AGawXBG+NY\nVM2O2prLagxmb1AJ+BsQeWpR\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-hack@cgp-hackathon.iam.gserviceaccount.com",
+  "client_id": "116080063879946427007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-hack%40cgp-hackathon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
